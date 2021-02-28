@@ -18,7 +18,11 @@ development and design.Having a positive outlook am always willing to learn new 
 ### Work Experience
 2013- 2021
 Lead Information Security Engineer
-
+- Administration of a monitoring system based on Zabbix;
+- Administration of Kaspersky Security Center;
+- Network equipment administration (Cisco);
+- PKI(AVEST CSP,AvPCM);
+- Writing technical documentation.
 2012-2013
 Lead Information Security Specialist
 
