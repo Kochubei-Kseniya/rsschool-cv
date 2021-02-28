@@ -1,1 +1,31 @@
+## Kochubei Ksenija
 
+#### **Contact details**
+*Email* : kochubei-kseniya@mail.ru
+*Phone* : +375-29-502-18-08
+
+### Summary
+Junior JavaScript Developer is seeking to obtain a creative and challenging position that utiliezes current knowledge of 
+development and design.Having a positive outlook am always willing to learn new traits.
+
+### Skills:
+- HTML5, CSS3;
+- JavaScript;
+- SQL;
+- Git/Github;
+- Linux/Unix,Windows
+
+### Work Experience
+2013- 2021
+Lead Information Security Engineer
+
+2012-2013
+Lead Information Security Specialist
+
+### Education and Certifications
+2020 -Html.Css. Html Academy.
+2014- English.Upper-Intermediate (Belhard)
+2007-2012 Belarusian State University of Informatics and Radioelectronics.
+
+### Languages
+English - Intermediate
