@@ -1,7 +1,7 @@
 ## Kochubei Ksenija
 
 #### **Contact details**
-*Email* : kochubei-kseniya@mail.ru
+*Email* : kochubei-kseniya@mail.ru    
 *Phone* : +375-29-502-18-08
 
 ### Summary
@@ -16,7 +16,7 @@ development and design.Having a positive outlook am always willing to learn new 
 - Linux/Unix,Windows
 
 ### Work Experience
-2013- 2021
+2013 - 2021
 Lead Information Security Engineer
 - Administration of a monitoring system based on Zabbix;
 - Administration of Kaspersky Security Center;
